@@ -11,6 +11,8 @@ java/*.class
 java/*.jar
 java/rabbitmq-java-client-bin*
 javascript-nodejs/node_modules
+javascript-nodejs/package-lock.json
+
 php/lib/
 python-puka/venv
 ruby*/gems/
